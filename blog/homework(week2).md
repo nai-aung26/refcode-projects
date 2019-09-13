@@ -23,7 +23,7 @@ For example:
 < div class="site-navigation js-site-navigation" >
 < /div >
 
-![logical](./img.png)
+![logical](.\img.png)
 
 ## need help!
 #### Validate frequently
