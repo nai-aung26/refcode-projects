@@ -7,7 +7,7 @@
 #### Always close tags
 To avoid encountering validation errors always remember to have a closing tag for every tag you create.
 
-good CSS can only exist with equally good HTML markup.
+#### good CSS can only exist with equally good HTML markup.
 
 #### Proper Indentation
 All right, we are about three lines in and I’m already annoyed by the lack of indentation. Indentation has no bearing on how the page is rendered, but it has a huge effect on the readability of the code. Standard procedure is to indent one tab (or a few spaces) when you are starting a new element that is a child element of the tag above it. Then move back in a tab when you are closing that element.
@@ -24,6 +24,13 @@ For example:
 < /div >
 
 ![logical](.\img.png)
+
+#### Gestalt Principles (the Law of Similarity)
+Similarity can be achieved using basic elements such as shapes, colors, and size.
+
+
+#### Proximity (also known as Emergence)
+Simple shapes arranged together can create a more complex image.
 
 ## need help!
 #### Validate frequently
