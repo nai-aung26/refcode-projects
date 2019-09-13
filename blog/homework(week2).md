@@ -23,7 +23,7 @@ For example:
 < div class="site-navigation js-site-navigation" >
 < /div >
 
-![logical](.\img.png)
+![logical](./img.png)
 
 #### Gestalt Principles (the Law of Similarity)
 Similarity can be achieved using basic elements such as shapes, colors, and size.
