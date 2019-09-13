@@ -23,6 +23,8 @@ For example:
 < div class="site-navigation js-site-navigation" >
 < /div >
 
+![logical-img](\img.png)
+
 ## need help!
 #### Validate frequently
 Instead of waiting until you are finished with your HTML document, validate your code multiple times as you work. This will help save some time in the end by identifying errors early on, especially if your document is lengthy. One popular HTML validator to use is W3C's markup validation service.
@@ -34,3 +36,4 @@ It may seem like an easy route to place styling in line with the code instead of
 ##### B=block(this ‘block’ could represent a site navigation, header, footer, or any other block of design.)
 ##### E=elements(The head , feet, and arms are all elements within the component.)
 ##### M=Modifiers(this could be a red button or blue button. These are modifications of the component in question.
+
