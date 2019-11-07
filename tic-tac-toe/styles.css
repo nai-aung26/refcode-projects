@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(85, 95, 95);
+}
+
+.game-board {
+  display : grid;
+  grid-template-columns: 60px 60px 60px;
+  grid-auto-rows: 60px 60px 60px;
+  width: 25%;
+  height: 50%;
+  margin-left: 44%;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.box {
+}
